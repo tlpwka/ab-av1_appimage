@@ -6,5 +6,5 @@ Appimage mangment: recomended gearlever
 ## option 1:
 `~/AppImages/ab-av1.appimage --help`
 ## option 1:
-`sudo ln -s ~/AppImages/ab-av1.appimage /usr/local/bin/ab-av1`
+`sudo ln -s ~/AppImages/ab-av1.appimage /usr/local/bin/ab-av1`  
 `ab-av1 --help`
